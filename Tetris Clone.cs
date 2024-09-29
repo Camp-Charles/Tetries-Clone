@@ -1,8 +1,8 @@
 using System;
 
-namespace TetriesClone
+namespace TetrisClone
 {
-    class TetriesClone
+    class TetrisClone
     {
         static void Main(string[] args)
         {

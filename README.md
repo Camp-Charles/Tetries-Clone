@@ -1,1 +1,1 @@
-Just a Tetries Clone
+Just a Tetris Clone
